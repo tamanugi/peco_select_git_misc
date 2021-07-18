@@ -5,7 +5,7 @@ Select git file/commit hash/tag/branch with peco
 ## Install
 
 ```
-fisher tamanugi/peco_select_git_misc
+fisher install tamanugi/peco_select_git_misc
 ```
 
 ## Usage
